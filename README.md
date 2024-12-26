@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning Rust, Go and Assembly 
 - 😄 Pronouns: he/him
 - 🔨 Current Projects:
-  * [mojidev-py/discmoji](https://github.com/mojidev-py/discmoji)
+  * [XenonPy/guide](https://github.com/xenonpy/guide)
   * [The Space by Bluspace](https://thespace.bluspace.net)
 
 jQuery sucks. Change my mind
